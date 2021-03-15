@@ -35,20 +35,20 @@ angular.module("angular", [])
                 
 				Id: 0,
 				Name: "Juan García",
-                Photo: "man.png",
+                Photo: "Juan.jpg",
     
                 /*** PASO #1: INSPIRACION ***/ 
                 goal1: "Quiere preparar un viaje sorpresa para visitar a sus hijos durante sus vacaciones",
-                touch1: "agenda",
+                touch1: "Calendario",
                 feel1: "4",
-                con1: "ver cuantos días puede tener libres para organizar lugar de viaje ",
-                ima1: "cartoon-planning.png",
+                con1: "Ver qué días son los más adecuados para visitar a sus hijos sin interrumpir su horario de trabajo ",
+                ima1: "cartoon-deciding.png",
 				
                 /*** PASO #2: DECICION ***/ 
-                goal2: "Busca en internet ofertas para esas fechas",
-                touch2: "Movil",
-                feel2: "2",
-                con2: "hay demasiada información y pierde mucho tiempo, no hay precios 'baratos'",
+                goal2: "Busca en internet alojamiento y qué hacer y qué visitar en Granada",
+                touch2: "Ordenador",
+                feel2: "3",
+                con2: "La información es completa pero el diseño de la página le cansa la vista y le cuesta leer las letra porque el tamñao es muy pequeño",
                 ima2: "cartoon-PCangry.png",
                 
                 /*** PASO #3: ACTUA ***/ 
