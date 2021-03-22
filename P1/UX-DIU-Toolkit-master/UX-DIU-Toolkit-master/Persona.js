@@ -80,7 +80,7 @@ angular.module("angular", [])
 				Age: 21,
 				Occupation: "Estudiante de interpretación",
 				Family: "Vive con su madre y con su hermana. Su padré abandonó la familia cuando aún era muy pequeña",
-				Location: "Sicilia (Palermo)",
+				Location: "Tarrasa (Barcelona)",
 				Character: "Soñadora, impulsiva, inteligente",
 				PersonalityTraits: [
 					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 3 },
@@ -89,8 +89,8 @@ angular.module("angular", [])
 					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 2 }
 				], 
 				Goals: ["Conectar con la mayor cantidad de gente posible", "Viajar", "Descubrir nuevos lugares increíbles", "Probar la gastronomía granadina y las famosas 'tapas' "],
-				Frustrations: ["Economía muy limitada", "No tiene aún el carnet de conducir", "Falta de tiempo para hacer todo lo que planea"],
-				Bio: "Es de Sicila y desde muy pequeña ya le gustaba viajar y aprender nuevos idiomas, es bastante independiente, pero nunca deja de lado a su hermana y a su madre, siguiendo siempre las recomendaciones que ellas le dan. Quiere hacer un Erasmus en Valladolid para poder hacer nuevos amigos y viajar con ellos por España, además de perfeccionar su español.",
+				Frustrations: ["Economía muy limitada", "Le encantaría conducir, pero debido a su incapacidad no le es posible", "Falta de tiempo para hacer todo lo que planea"],
+				Bio: "Es de Tarrasa y desde muy pequeña ya le gustaba viajar y aprender nuevos idiomas, a los 18 años sufrió un accidente de coche que la incapacitó para caminar, sin embargo este obstáculo no ha disminuido sus ganas de ver mundo. Nunca deja de lado a su hermana y a su madre, siguiendo siempre las recomendaciones que ellas le dan. Quiere hacer nuevos amigos y viajar con ellos por las ciudades de España, empezando por Granada.",
 				Tech: [
 					{ Name: "TIC/Internet", Value: 5 },
 					{ Name: "Mobile", Value: 5 },
@@ -98,7 +98,7 @@ angular.module("angular", [])
 					{ Name: "Software", Value: 3 }
 					
 				], 
-                Contextos:   "Va a hacer un Erasmus en Valladolid y quiere aprovechar su estancia allí para viajar a la mayor cantidad de ciudades posibles en España, incluyendo Granada, ciudad que le recomendó visitar su hermana mayor." ,
+                Contextos:   "" ,
 				PreferredChannels: [
 					{ Name: "Publicidad Tradicional (Ads)", Value: 0 },
 					{ Name: "Online & Social Media", Value: 5 },
