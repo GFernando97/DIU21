@@ -31,7 +31,7 @@ Sólo le queda por tanto, reservar el hotel y empezar a preparar sus maletas. No
 
 ![Juan](https://github.com/GFernando97/DIU21/blob/master/P1/Journey%20Map%20Juan.png)
 
--Gabriella
+-Gabriella:
 Al igual que con Juan, las etapas del proceso de reserva para Gabriella han sido 6:
 Gabriella quiere viajar por España con el objetivo de poder conocer mejor las principales ciudades de su país, vivir nuevas experiencias y hacer nuevos amigos. Ha decidido comenzar su viaje visitando la hermosa ciudad de Granada. Sin embargo, es minusválida y por tanto tiene que encontrar lugares que estén adaptados a su situación. Para ello comnienza buscando en Internet páginas web dónde poder encontrar información acerca de qué hacer y dónde puede alojarse en Granada, hay muchas webs en las que poder informarse. Cuando lleva un rato navegando por diferentes webs acerca de turismo en Granada, se da cuenta de que muy pocas de ellas proporciona información acerca de si los alojamientos y las distintas zonas que puede visitar están o no adaptadas para personas minusválidas. Además las pocas opciones que encuentra no se ajustan a su economía, que es un poco limitada. Debido a que la página web no le ha sido útil, decide consultar a su hermana, cuya opinión siempre tiene en cuenta.
 
