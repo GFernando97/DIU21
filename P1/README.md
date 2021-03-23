@@ -21,7 +21,9 @@
 - 2 User Journey Map  ( 1 por persona)
 
 -Juan:
+
 Las etapas que ha seguido Juan durante todo el proceso de reserva son 6: 
+
 Tomamos como inspiración de la idea dar una sorpresa a sus hijos e ir a visitarlos durante sus vacaciones(las de Juan). A partir de este momento, intentará escoger aquellos diás en los que el precio de las reservas sea económico respetando su calendario de vacaciones.
 Debido a su consciencia del avance de las tecnologías, Juan decide buscar información por su propia cuenta y a través de su ordenador personal, a pesar de que no es un experto en su uso y muestra ciertas dificultades con su uso. Un obstáculo encontrado es que hay demasiada información en internet y no sabe exactamente que información es la fiable. Finalmente se decide por una página algo conocida y llamda grandadirect.com.
 Una vez dentro de la página, decide buscar alojamiento económico y cerca de la ubicación de sus hijos. Si bien el objetivo principal del viaje es visitar a sus hijos, también quiere aprovechar para visitar Granada y, puesto que no va a conducir, le preocupa la eficacia del transporte público y el tiempo que se encontrará una vez esté allí.
@@ -32,14 +34,20 @@ Sólo le queda por tanto, reservar el hotel y empezar a preparar sus maletas. No
 ![Juan](https://github.com/GFernando97/DIU21/blob/master/P1/Journey%20Map%20Juan.png)
 
 -Gabriella:
+
 Al igual que con Juan, las etapas del proceso de reserva para Gabriella han sido 6:
+
 Gabriella quiere viajar por España con el objetivo de poder conocer mejor las principales ciudades de su país, vivir nuevas experiencias y hacer nuevos amigos. Ha decidido comenzar su viaje visitando la hermosa ciudad de Granada. Sin embargo, es minusválida y por tanto tiene que encontrar lugares que estén adaptados a su situación. Para ello comnienza buscando en Internet páginas web dónde poder encontrar información acerca de qué hacer y dónde puede alojarse en Granada, hay muchas webs en las que poder informarse. Cuando lleva un rato navegando por diferentes webs acerca de turismo en Granada, se da cuenta de que muy pocas de ellas proporciona información acerca de si los alojamientos y las distintas zonas que puede visitar están o no adaptadas para personas minusválidas. Además las pocas opciones que encuentra no se ajustan a su economía, que es un poco limitada. Debido a que la página web no le ha sido útil, decide consultar a su hermana, cuya opinión siempre tiene en cuenta.
 
 Gabriella está muy emocionada con la recomendación que le ha hecho su hermana, un hotel adaptado para minuválidos y además económico. Sin embargo, en la web página de información turística que más le había gustado no encuentra información referente a este hotel y no puede ver ninguna de reseña de clientes del mismo en esta página. Decido buscar en otras páginas web información acerca de este alojamiento y de nuevo encuentra demasiada información. Finalmente, tras haber encontrado información del hotel decide realizar la reserva y está deseando comenzar la aventura.
 
 ![Gabriella](https://github.com/GFernando97/DIU21/blob/master/P1/Journey%20Map%20Gabriella.png)
 
-- Revisión de Usabilidad 
+- Revisión de Usabilidad
 
+Valoración final: 69 (Moderada).
 
-(valoración y conclusiones de esta etapa)
+En cuanto a las características y la funcionalidad de la página web escogida, en general son bastante buenas y ofrece información relevante (dónde comer, dónde alojarse, qué sitios vistar...) y fácil de encontrar para todo tipo de usuarios. En cuanto a la navegación a través de la página, esta es simple y informa en cada momento de en qué apartado te encuentras dentro de la misma. Además, los posibles errores que puedan aparecer a la hora de usar la página (por ejemplo no rellenar el mínimo de palabras en el campo de comentario para hacer una reseña) son claros y permiten solucionar fácilmente el problema. El principal elemento diferencial de esta página web es que proporciona información muy útil y práctica sobre todo tipo de actividades turísticas que se pueden hacer en Granada, acompañadas de imágenes descriptivas.
+
+Algunos aspectos en los que podría mejorar podrían ser la incorporación de un menú desplegable dónde aparezcan los difentes apartados en lugar de que aparezcan todos directamente en la pantalla de inicio, añadir una barra de búsqueda para poder encontrar información más concreta, opción de registro y alamecenamiento de información que el usuario considere relevante en su propio perfil, incorporación de más idiomas (sólo está disponible en español e inglés) y mejores opciones de ayuda al usuario como chat on-line.
+
