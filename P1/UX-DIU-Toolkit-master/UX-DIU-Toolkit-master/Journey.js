@@ -19,9 +19,9 @@
 
 angular.module("angular", [])
 	.controller("controller", ["$scope", function($scope) { 
-		$scope.Grupo_ID ="DIU1.ABCDEF";
+		$scope.Grupo_ID ="DIU2.roadToAndorra";
         $scope.Curso ="2020/21";
-        $scope.Github_ID ="https://github.com/mgea/UX-DIU-Toolkit";
+        $scope.Github_ID ="https://github.com/GFernando97/DIU21";
         
 		$scope.JourneyIndex = 0;
         
@@ -122,24 +122,24 @@ angular.module("angular", [])
                 goal4: "Su hermana le recomienda un hotel adaptado y barato",
                 touch4: "Directo",
                 feel4: "4",
-                con4: "No hay mucha información del alojamiento ni de lo que hay alrededor, aunque el precio está bien, va por la calle por lo que está incómoda",
-                ima4: "cartoon-phone-street.png",
+                con4: "En las páginas en las que ha buscado información no aparece nada relativo a ese hotel, por lo que no puede guiarse por ningún tipo de reseña que haya escrito alguien anteriormente",
+                ima4: "cartoon-speaking.png",
                 
                  /*** PASO #5: ANALIZA ***/ 
                 
-                goal5: "Reserva a traves de la aplicación ",
-                touch5: "Móvil (webapp)",
+                goal5: "Busca información sobre el hotel que le ha recomendado su hermana en otras páginas web y aplicaciones móvil ",
+                touch5: "Móvil",
                 feel5: "3",
-                con5: "Le pide muchos datos y le resulta incómodo completar formulario",
-                ima5: "cartoon-phone-sitting.png",
+                con5: "De nuevo, hay mucha información y no sabe a cual creer",
+                ima5: "cartoon-why.png",
 
                 
                 /*** PASO #6: CONCLUSION ***/ 
                 
-                goal6: "Consiguie reservar para vacaciones pero no era lo que tenía en mente",
-                touch6: "Ordenador (reserva OK)",
-                feel6: "2",
-                con6: "Tendrá que buscar más información del lugar para ver que actividades ofrece y donde aparacar!",
+                goal6: "Reserva su estancia en el hotel y está deseando comenzar el viaje",
+                touch6: "Ordenador",
+                feel6: "3",
+                con6: "Se dispone a buscar información sobre que hacer y que lugares visitar en Granada",
                 ima6: "cartoon-PChard.png",
                 
                 
