@@ -57,7 +57,7 @@ angular.module("angular", [])
                 touch3: "ordenador",
                 feel3: "2",
                 con3: "Está preocupado por el tiempo y la eficacia del transporte público (se desplazará en bus)",
-                ima3: "cartoon-phone.png",
+                ima3: "cartoon-why.png",
                 
                 /*** PASO #4: OBSERVA ***/ 
                 
@@ -71,17 +71,17 @@ angular.module("angular", [])
                 
                 goal5: "Se encuentra 3 opciones que encajan en sus preferencias",
                 touch5: "móvil",
-                feel5: "2",
-                con5: "Llama a sus amigos (whatsapp no responen) para ver cual es su preferencia, tienen que reservar rápido por los precios",
-                ima5: "cartoon-phoning.png",
+                feel5: "3",
+                con5: "",
+                ima5: "cartoon-PCSurprised.png",
                 
                 
                 /*** PASO #6: CONCLUSION ***/ 
                 
-                goal6: "Consigue reservar, otro año se encarga otro!",
+                goal6: "Reserva el hotel y prepara las maletas para viajar",
                 touch6: "ordenador",
-                feel6: "3",
-                con6: "algunos amigos no confirmaron por lo que tuvo que seleccionar reserva con posibilidad de cancelación",
+                feel6: "4",
+                con6: "Realizó la reserva para unos días concretos con posibilidad de cancelación por si tiene que volver antes",
                 ima6: "cartoon-resting.png",
                 
 			},
@@ -92,36 +92,36 @@ angular.module("angular", [])
                 /*************************************/
                 
 				Id: 1,
-				Name: "Monica Suarez",
-                Photo: "woman.png",
+				Name: "Gabriella Ricci",
+                Photo: "Gabriella.jpg",
                 
 				 /*** PASO #1: INSPIRACION ***/ 
-                goal1: "Quiere preparar un viaje con su familia para Verano, tiene sólo 15 dias libres",
-                touch1: "agenda",
+                goal1: "Quiere viajar por España y conocer gente nueva",
+                touch1: "Móvil",
                 feel1: "5",
-                con1: "Quiere ir a un pais exotico pero que tenga atracciones para niños pequeños",
-                ima1: "cartoon-going.png",
+                con1: "Quiere visitar todos los lugares posibles, pero que estén adaptados para su minusvalía",
+                ima1: "cartoon-phone-sitting.png",
                 
                 /*** PASO #2: DECICION ***/ 
-                goal2: "Ir a una agencia de viajes, y decirle sus preferencias y planes",
-                touch2: "Servicio (agencia)",
-                feel2: "4",
-                con2: "Tiene que desplazarse a agencia, explica su intenciones, le llamaran porque no hay nada interesante",
-                ima2: "cartoon-teamthinking.png",
+                goal2: "Buscar por su cuenta en Internet páginas web que le inspiren",
+                touch2: "Móvil",
+                feel2: "3",
+                con2: "Hay muchas webs dónde mirar y no sabe cuál escoger",
+                ima2: "cartoon-looking.png",
                 
                 /*** PASO #3: ACTUA ***/ 
                 
-                goal3: "Le llaman a los pocos días con un viaje que no le convence",
-                touch3: "Móvil (llamada)",
-                feel3: "2",
-                con3: "Piensa que ha perdido el tiempo",
-                ima3: "cartoon-phoningangry.png",
+                goal3: "Encuentra pocas ofertas sobre hoteles adaptados",
+                touch3: "Móvil",
+                feel3: "1",
+                con3: "No encuentra hoteles que sean económicos y adaptados a su minusvalía al mismo tiempo",
+                ima3: "cartoon-PCangry.png",
                 
                 /*** PASO #4: OBSERVA ***/ 
                 
-                goal4: "Busca una oferta en hoteles cerca de playa y con parque atracciones",
-                touch4: "Móvil (webapp)",
-                feel4: "2",
+                goal4: "Su hermana le recomienda un hotel adaptado y barato",
+                touch4: "Directo",
+                feel4: "4",
                 con4: "No hay mucha información del alojamiento ni de lo que hay alrededor, aunque el precio está bien, va por la calle por lo que está incómoda",
                 ima4: "cartoon-phone-street.png",
                 
