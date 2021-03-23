@@ -5,15 +5,14 @@
 
 - Desk research: Análisis Competencia 
 - Para este apartado, hemos analizado 7 casos de estudio, 5 de ellos páginas web y dos aplicaciones móvil disponibles en Play Store.
-- Como conclusión, hemos concluido que aquella que mayor puntuación  ha obtenido en base a la información, reseñas, posibilidad de registro y demás apartados de comparación es la alicación movil Nativoo, ganando en posición a nuestra propuesta web granadadirect.com
-- No obstante esta aplicación no es perfecta ya que carece de una adaptación a posibles minusvalías y tampoco ofrece otros lenguajes a parte del español.
-- 
+ Como conclusión, hemos concluido que aquella que mayor puntuación  ha obtenido en base a la información, reseñas, posibilidad de registro y demás apartados de comparación es la alicación movil Nativoo, ganando en posición a nuestra propuesta web granadadirect.com. No obstante esta aplicación no es perfecta ya que carece de una adaptación a posibles minusvalías y tampoco ofrece otros lenguajes a parte del español.
+ 
 - 2 Personas 
-- Hemos diseñado a dos personas diferenciadas en edad y capacidad de uso de tecnólogias. Empezamos con Juan:
--Juan es un hombre avanzada edad,cuya mujer falleció y padre de dos hijos ya emancipados y completamente independientes.
--Trabaja de cartero, ha sido su trabajo de toda la vida, de echo, conoció a su mujer entregándole una carta y se enamoró completamente de ella.
--Es un hombre muy familiar, además de amistoso. En el trabajo es el más veterano y todos sus compañeros le tienen aprecio. Vive en Pinto, Madrid. Sus hijos, sin -embargo, al independizarse, se movilizaron a Granada por motivos de trabajo y relacion con sus respectivas parejas. Por ende, desde que su mujer falleciera, Juan vive solo. Si bien, pasa la mayor parte del tiempo libre que tiene en el bar con sus compañeros de trabajo viendo el partido de fútbol, Juan se siente a menudo sólo y echa de menos a sus hijos, desearía poder estar con ellos y poder conocer a su futuro nieto, que nacerá en breves. 
-- 
+ Hemos diseñado a dos personas diferenciadas en edad y capacidad de uso de tecnólogias. Empezamos con Juan:
+-Juan García es un hombre avanzada edad,cuya mujer falleció y padre de dos hijos ya emancipados y completamente independientes. Trabaja de cartero, ha sido su trabajo de toda la vida, de echo, conoció a su mujer entregándole una carta y se enamoró completamente de ella. Es un hombre muy familiar, además de amistoso. En el trabajo es el más veterano y todos sus compañeros le tienen aprecio. Vive en Pinto, Madrid. Sus hijos, sin -embargo, al independizarse, se movilizaron a Granada por motivos de trabajo y relacion con sus respectivas parejas. Por ende, desde que su mujer falleciera, Juan vive solo. Si bien, pasa la mayor parte del tiempo libre que tiene en el bar con sus compañeros de trabajo viendo el partido de fútbol, Juan se siente a menudo sólo y echa de menos a sus hijos, desearía poder estar con ellos y poder conocer a su futuro nieto, que nacerá en breves. 
+![Juan](https://github.com/GFernando97/DIU21/blob/master/P1/Juan%20Persona%20Template.jpeg)
+
+-Gabriella Ricci es una chica estudiante de traducción de idiomas. Soñadora y divertida, siempre le ha encantado descubrir nuevas experiencias, así como lugares y personas. Desafortunadamente, a la edad de 18 años, cuando apenas consiguió sacarse el carnet de conducir, sufrió un grave accidente de coche que la dejó con una minusvalía e incapaz de caminar por sí sola. Este evento no ha mermado sus ganas de vivir y siempre se ha mantenido con una sonrisa ante los nuevos obstáculos. Los encuentra desafiantes y no se rinde ante ellos. En cuanto a su familia, su padre los abandonó cuando ella era apenas una niña y no recuerda demasiado de él. Tiene una hermana mayor. Ella junto con su madre son sus modelos a seguir y siempre tiene en cuenta las opiniones que le dan sobre cualquier tema. Uno de sus mayores sueños es poder visitar todos los lugares interesantes del mundo. No obstante ha decidido empezar visitando las ciudades mas interesantes de España. Entre ellas se encuentra Granada, una ciudad que siempre le ha llamado la atención. 
 - 2 User Journey Map  ( 1 por persona)
 - Revisión de Usabilidad 
 
