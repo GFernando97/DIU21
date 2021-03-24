@@ -26,10 +26,8 @@ Como se ha mencionado antes, nuestra caso de estudio propuesto es [granadadirect
 ##### User Journey Map 
 
 1. Juan:
-- Las etapas que ha seguido Juan durante todo el proceso de reserva son 6: 
-
-Tomamos como inspiración de la idea dar una sorpresa a sus hijos e ir a visitarlos durante sus vacaciones(las de Juan). A partir de este momento, intentará escoger aquellos diás en los que el precio de las reservas sea económico respetando su calendario de vacaciones.
-Debido a su consciencia del avance de las tecnologías, Juan decide buscar información por su propia cuenta y a través de su ordenador personal, a pesar de que no es un experto en su uso y muestra ciertas dificultades con su uso. Un obstáculo encontrado es que hay demasiada información en internet y no sabe exactamente que información es la fiable. Finalmente se decide por una página algo conocida y llamada [granadadirect](http://www.granadadirect.com/).
+- Juan ha seguido seis etapas durante todos el proceso. Tomamos como inspiración de la idea dar una sorpresa a sus hijos e ir a visitarlos durante sus vacaciones(las de Juan). A partir de este momento, intentará escoger aquellos dias en los que el precio de las reservas sea económico respetando su calendario de vacaciones.
+Debido a su consciencia del avance de las tecnologías, Juan decide buscar información por su propia cuenta y a través de su ordenador personal, a pesar de que no es un experto en la materia y muestra ciertas dificultades con su uso. Un obstáculo encontrado es que hay demasiada información en internet y no sabe exactamente que información es la fiable. Finalmente se decide por una página algo conocida y llamada [granadadirect](http://www.granadadirect.com/).
 Una vez dentro de la página, decide buscar alojamiento económico y cerca de la ubicación de sus hijos. Si bien el objetivo principal del viaje es visitar a sus hijos, también quiere aprovechar para visitar Granada y, puesto que no va a conducir, le preocupa la eficacia del transporte público y el tiempo que se encontrará una vez esté allí.
 Como es costumbre, le cuenta la idea del viaje sorpresa a sus amigos, y estos al enterarse, le recomiendan lugares imprescindibles que visitar y, también le aconsejan sobre lugares en los que comer bien. Juan, una vez ha oído sobre estos lugares, decide buscar información sobre ellos en la web nombrada anteriormente y contrasta la información con la de sus amigos.
 Después de toda su búsqueda, encuentra 3 opciones que a su parecer son óptimas para él
