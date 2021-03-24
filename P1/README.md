@@ -20,7 +20,7 @@ Como se ha mencionado antes, nuestra caso de estudio propuesto es [granadadirect
 
 2. Gabriella Ricci:
 - Es una chica estudiante de traducción de idiomas. Soñadora y divertida, siempre le ha encantado descubrir nuevas experiencias, así como lugares y personas. Desafortunadamente, a la edad de 18 años, cuando apenas consiguió sacarse el carnet de conducir, sufrió un grave accidente de coche que la dejó con una minusvalía e incapaz de caminar por sí sola. Este evento no ha mermado sus ganas de vivir y siempre se ha mantenido con una sonrisa ante los nuevos obstáculos. Los encuentra desafiantes y no se rinde ante ellos. En cuanto a su familia, su padre los abandonó cuando ella era apenas una niña y no recuerda demasiado de él. Tiene una hermana mayor. Ella junto con su madre son sus modelos a seguir y siempre tiene en cuenta las opiniones que le dan sobre cualquier tema. Uno de sus mayores sueños es poder visitar todos los lugares interesantes del mundo. No obstante ha decidido empezar visitando las ciudades mas interesantes de España. Entre ellas se encuentra Granada, una ciudad que siempre le ha llamado la atención.
-![Gabriella](https://github.com/GFernando97/DIU21/blob/master/P1/Gabriella%20Persona%20Template.png)
+![Gabriella](https://github.com/GFernando97/DIU21/blob/master/P1/Gabriella%20Persona.png)
 
 
 ##### User Journey Map 
