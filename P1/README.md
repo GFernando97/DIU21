@@ -9,6 +9,8 @@ Como conclusión, hemos concluido que aquella que mayor puntuación  ha obtenido
 
 
 Como se ha mencionado antes, nuestra caso de estudio propuesto es [granadadirect](http://www.granadadirect.com/). Hemos escogido esta página debido a que el acceso a la misma y a sus apartados es bastante claro, pues todos los posibles ámbitos de información se encuentran en la página principal. Además, a medida que indagamos en la página, podemos observar que cuenta con una información de calidad, pues se nos ofrece tanto los datos sobre el lugar, monumento, restaurante, local... que vamos a visitar, además de una breve historia su localización y precios en caso en el que se deba pagar. Si bien es cierto que carece con apartados cuyos otros competidores si tienen, cosideramos que esta página es muy completa en los ámbitos en los que destaca.
+
+![AnalisisCompetitivo](https://github.com/GFernando97/DIU21/blob/master/P1/AnalisisC.png)
  
 ### Personas
 
