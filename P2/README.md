@@ -9,13 +9,12 @@
 ### PROPUESTA DE VALOR
 * ScopeCanvas
 
-
+![PDFCanvas](https://github.com/GFernando97/DIU21/blob/master/P2/Canvas.pdf)
 
 
 ### TASK ANALYSIS
 
 * User Task Matrix 
-* User/Task flow
 
 
 ### ARQUITECTURA DE INFORMACIÓN
