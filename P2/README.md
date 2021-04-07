@@ -9,7 +9,7 @@
 ### PROPUESTA DE VALOR
 * ScopeCanvas
 
-![PDFCanvas](https://github.com/GFernando97/DIU21/blob/master/P2/Canvas.pdf)
+![PDFCanvas](https://github.com/GFernando97/DIU21/blob/master/P2/Canvas.png)
 
 
 ### TASK ANALYSIS
