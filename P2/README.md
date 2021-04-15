@@ -20,6 +20,9 @@
 ### ARQUITECTURA DE INFORMACIÓN
 
 * Sitemap 
+![SiteMap](https://github.com/GFernando97/DIU21/blob/master/P2/Sitemap.png)
+
+
 * Labelling 
 
 
