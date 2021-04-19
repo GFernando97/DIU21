@@ -24,9 +24,6 @@
 
 
 * Labelling 
-| Término | Icono | Descripción |
-| --- | --- | --- |
-| Menú auxiliar | ![menu](https://github.com/GFernando97/DIU21/blob/master/P2/iconos/menu.png) | Representa el menú lateral desplegable dónde acceder a funcionalidades que ofrece la aplicación |
 
 
 ### Prototipo Lo-FI Wireframe 
