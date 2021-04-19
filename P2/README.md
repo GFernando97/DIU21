@@ -30,10 +30,14 @@
 
 * Labelling 
 
-![Labelling](https://github.com/GFernando97/DIU21/blob/master/P2/Labelling%20description.pdf)
+A continuación se muestra el labelling de la aplicación. Para visualizarlo, pulsar sobre el siguiente [enlace](https://github.com/GFernando97/DIU21/blob/master/P2/Labelling%20description.pdf).
 
 
-### Prototipo Lo-FI Wireframe 
+### Prototipo Lo-FI Wireframe
+
+Para finalizar, se han esbozado una serie de bocetos de las diferentes pantallas que presenta la aplicación de turismo.
+
+
 
 
 ### Conclusiones  
