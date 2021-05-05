@@ -68,7 +68,7 @@ A continuación se muestran los protipos finales del aspecto que tendrán cada u
 
 - Ajustes de negocio
 
-![Negocios](https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/bussines-settings.png)
+![Negocios](https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/business-settings.png)
 
 - Rutas
 
