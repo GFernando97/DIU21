@@ -26,6 +26,20 @@ Como CTA hemos empleado un enlace para que las personas que vean el anuncio pued
 ![Landing Page](https://github.com/GFernando97/DIU21/blob/master/P3/Landing%20Page.png)
 
 
+## Patrones UI y Guidelines
+
+A la hora de diseñar los prototipos finales de la aplicación hemos seguidos los siguientes patrones de diseño para dispositivos móviles:
+
+- Onboarding: A la hora de acceder a la aplicación se han empleado patrones de diseño para registro e inicio de sesión. En ambos casos se proporciona la posibilidad al usuario de hacerlo con su cuenta de Google, Apple ó Facebook.
+- Content: En cuanto a los patrones de diseño para el contenido de la aplicación, se han empleado patrones de diseño para realizar una página de inicio con una galería de imágenes, para mostrar artículos dentro de la aplicación, para ajustes generales etc, etc
+- Data: Para el procesamiento de los datos que gestiona la aplicación hemos empleado un patrón de búsqueda con el que los usuarios puedan buscar de entre todos los artículos disponibles el que deseen. También se emplean patrones de filtros y ordenación de resultados obtenidos en las búsquedas.
+- Communication: Se han empleado patrones About para informar acerca del propósito de la aplicación, así como patrones de privacidad y términos legales.
+- Social: A nivel social se emplean patrones de diseño de bots que puedan proporcionar ayuda a los usuarios, posibilidad de realizar comentarios en los artículos, disponer de un perfil de usuario, enlaces a las redes sociales de la aplicación...
+- Layout: Por último, en cuanto al layout hemos empleado un patrón de modo oscuro para aquellos usuarios que lo prefieran.
+
+Como herramienta de apoyo para poder determinar los patrones de diseño se ha usado la página web [Mobbin](https://mobbin.design/patterns) vista en clase de teoría.
+
+
 ## Mockup: LAYOUT HI-FI
 
 A continuación se muestran los protipos finales del aspecto que tendrán cada una de las pantallas de la aplicación:
