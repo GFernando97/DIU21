@@ -1,4 +1,4 @@
-# DIU - Practica 3, entregables
+# DIU - Práctica 3: Prototipado/Mockup
 
 ## Moodboard (diseño visual + logotipo)   
 
@@ -27,6 +27,60 @@ Como CTA hemos empleado un enlace para que las personas que vean el anuncio pued
 
 
 ## Mockup: LAYOUT HI-FI
+
+A continuación se muestran los protipos finales del aspecto que tendrán cada una de las pantallas de la aplicación:
+
+- Registrar
+
+![Registrar](https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/register.png)
+
+- Iniciar sesión
+
+![IniciarSesion](https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/login.png)
+
+- Página principal
+
+![Home](https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/home-registered.png)
+
+- Artículo
+
+![Articulo](https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/article.png)
+
+- Panel lateral
+
+![Panel](https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/lateral-panel.png)
+
+- Sobre nosotros
+
+![SobreNosotros](https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/about-us.png)
+
+- Perfil de usuario
+
+![Perfil](https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/profile.png)
+
+- Ajustes de perfil
+
+![AjustesPerfil](https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/profile-settings.png)
+
+-Editar perfil
+
+![EditarPerfil](https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/edit-profile.png)
+
+- Ajustes de negocio
+
+![Negocios](https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/bussines-settings.png)
+
+- Rutas
+
+![Rutas](https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/routes.png)
+
+- Búsqueda
+
+![Buscar](https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/search.png)
+
+- Ajustes generales
+
+![Ajustes](https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/settings.png)
 
 
 ## Documentación: Publicación del Case Study
