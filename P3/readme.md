@@ -76,7 +76,7 @@ A continuación se muestran los protipos finales del aspecto que tendrán cada u
 
 ![AjustesPerfil](https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/profile-settings.png)
 
--Editar perfil
+- Editar perfil
 
 ![EditarPerfil](https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/edit-profile.png)
 
