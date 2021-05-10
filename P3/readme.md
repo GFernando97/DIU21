@@ -46,55 +46,55 @@ A continuación se muestran los protipos finales del aspecto que tendrán cada u
 
 - Registrar
 
-![Registrar](https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/register.png)
+![Registrar](https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/register.png | height=50)
 
 - Iniciar sesión
 
-![IniciarSesion](https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/login.png)
+![IniciarSesion](https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/login.png | height=50)
 
 - Página principal
 
-![Home](https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/home-registered.png)
+![Home](https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/home-registered.png | height=50)
 
 - Artículo
 
-![Articulo](https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/article.png)
+![Articulo](https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/article.png | height=50)
 
 - Panel lateral
 
-![Panel](https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/lateral-panel.png)
+![Panel](https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/lateral-panel.png | height=50)
 
 - Sobre nosotros
 
-![SobreNosotros](https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/about-us.png)
+![SobreNosotros](https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/about-us.png | height=50)
 
 - Perfil de usuario
 
-![Perfil](https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/profile.png)
+![Perfil](https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/profile.png | height=50)
 
 - Ajustes de perfil
 
-![AjustesPerfil](https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/profile-settings.png)
+![AjustesPerfil](https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/profile-settings.png | height=50)
 
 - Editar perfil
 
-![EditarPerfil](https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/edit-profile.png)
+![EditarPerfil](https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/edit-profile.png | height=50)
 
 - Ajustes de negocio
 
-![Negocios](https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/business-settings.png)
+![Negocios](https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/business-settings.png | height=50)
 
 - Rutas
 
-![Rutas](https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/routes.png)
+![Rutas](https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/routes.png | height=50)
 
 - Búsqueda
 
-![Buscar](https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/search.png)
+![Buscar](https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/search.png | height=50)
 
 - Ajustes generales
 
-![Ajustes](https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/settings.png)
+![Ajustes](https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/settings.png | height=50)
 
 
 ## Documentación: Publicación del Case Study
