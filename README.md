@@ -5,7 +5,8 @@ Grupo: DIU2_roadToAndorra.  Curso: 2020/21
 Updated: 10/5/2021
 
 Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+
+TourGranada
 
 Descripción: 
 
