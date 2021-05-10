@@ -46,55 +46,55 @@ A continuación se muestran los protipos finales del aspecto que tendrán cada u
 
 - Registrar
 
-<img src="https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/register.png" width=50% height=50%>
+<img src="https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/register.png" width=25% height=25%>
 
 - Iniciar sesión
 
-<img src="https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/login.png" width=50% height=50%>
+<img src="https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/login.png" width=25% height=25%>
 
 - Página principal
 
-<img src="https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/home-registered.png" width=50% height=50%>
+<img src="https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/home-registered.png" width=25% height=25%>
 
 - Artículo
 
-<img src="https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/article.png" width=50% height=50%>
+<img src="https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/article.png" width=25% height=25%>
 
 - Panel lateral
 
-<img src="https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/lateral-panel.png" width=50% height=50%>
+<img src="https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/lateral-panel.png" width=25% height=25%>
 
 - Sobre nosotros
 
-<img src="https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/about-us.png" width=50% height=50%>
+<img src="https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/about-us.png" width=25% height=25%>
 
 - Perfil de usuario
 
-<img src="https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/profile.png" width=50% height=50%>
+<img src="https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/profile.png" width=25% height=25%>
 
 - Ajustes de perfil
 
-<img src="https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/profile-settings.png" width=50% height=50%>
+<img src="https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/profile-settings.png" width=25% height=25%>
 
 - Editar perfil
 
-<img src="https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/edit-profile.png" width=50% height=50%>
+<img src="https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/edit-profile.png" width=25% height=25%>
 
 - Ajustes de negocio
 
-<img src="https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/business-settings.png" width=50% height=50%>
+<img src="https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/business-settings.png" width=25% height=25%>
 
 - Rutas
 
-<img src="https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/routes.png" width=50% height=50%>
+<img src="https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/routes.png" width=25% height=25%>
 
 - Búsqueda
 
-<img src="https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/search.png" width=50% height=50%>
+<img src="https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/search.png" width=25% height=25%>
 
 - Ajustes generales
 
-<img src="https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/settings.png" width=50% height=50%>
+<img src="https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/settings.png" width=25% height=25%>
 
 
 ## Documentación: Publicación del Case Study
