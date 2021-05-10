@@ -1,15 +1,17 @@
 # DIU21
 Prácticas Diseño Interfaces de Usuario 2020-21 (Tema: Turismo) 
 
-Grupo: DIU1_01AABB.  Curso: 2020/21 
-Updated: 8/2/2021
+Grupo: DIU2_roadToAndorra.  Curso: 2020/21 
+Updated: 10/5/2021
 
 Proyecto: 
 >>> Decida el nombre corto de su propuesta en la práctica 2 
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+El proyecto consiste en el desarrollo de una aplicación institucional de turismo en la ciudad de Granada. A través de la aplicación los usuarios podrán obtener información relacionada con todo tipo de monumentos, museos, eventos, restaurantes, hoteles etc, etc. Además se ofrece la posibilidad de registrarse en la aplicación, lo cual permite el acceso a una serie de funcionalidades extra tales como: marcar como favoritos artículos que el usuario encuentre interesantes para poder acceder a ellos de forma más rápida en la sección de favoritos, realizar comentarios en los artículos, crear rutas turísticas personalizadas para realizar en Granada...
+
+La aplicación también dispone de un motor de búsqueda de artículos dentro de la aplicación y se una sección especial para empresas a través de la cual un determinado negocio (hotel, restaurante, monumento...) podrá validarse y anunciarse en la aplicación.
 
 Logotipo: 
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
