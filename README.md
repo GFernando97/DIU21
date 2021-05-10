@@ -16,8 +16,8 @@ Logotipo:
 ![Logo](https://github.com/GFernando97/DIU21/blob/master/P3/LogoColorApp.png)
 
 Miembros
- * :bust_in_silhouette:   AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette: Gabriel Fernando Lojano Mayaguari       :octocat:     GFernando97
+ * :bust_in_silhouette: Moisés Noguera Carrillo      :octocat:      mnc99
 
 ----- 
 
