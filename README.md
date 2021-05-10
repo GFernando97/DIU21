@@ -4,9 +4,7 @@ Prácticas Diseño Interfaces de Usuario 2020-21 (Tema: Turismo)
 Grupo: DIU2_roadToAndorra.  Curso: 2020/21 
 Updated: 10/5/2021
 
-Proyecto: 
-
-TourGranada
+Proyecto: TourGranada
 
 Descripción: 
 
