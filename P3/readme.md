@@ -99,6 +99,11 @@ A continuación se muestran los protipos finales del aspecto que tendrán cada u
 
 ## Documentación: Publicación del Case Study
 
+En esta práctica hemos aprendido a usar diferentes plataformas y aplicaciones útiles a la hora de realizar el desarrollo de una interfaz de usuario. Si bien es cierto que hemos podido llevar a cabo el desarrollo de esta parte con normalidad, también nos hemos encontrado con ciertas dificultades en el momento del diseño y consideramos que una de las partes más complejas de esta parte es escoger una paleta de colores adecuada, es decir, que en cuanto al diseño presente un aspecto agradable, limpio, minimalista y que además el contenido que se presente en la aplicación sea de facil lectura.
+Y por último, otro de los aspectos más complejos desde nuestro punto de vista ha sido escoger un nombre adecuado. Esto se debe a varios motivos:
+ - Varios de los nombres que teníamos en mente ya habían sido utilizados.
+ - Puesto que se técnicamente se trata de una aplicación desarrollada por el ayuntamiento de Granada, suponemos que el nombre debe presentar un aspecto formal, oficial y facil de recordar.
+ 
+Por último nos hemos habituado a utilizar aplicaciones que facilitan la organización y el diseño de una interfaz de usuario, consideramos que es un aspecto positivo pues es un conocimiento que podemos utilizar en futuros proyectos.
 
-(incluye) Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
  
