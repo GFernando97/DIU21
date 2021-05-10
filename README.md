@@ -16,8 +16,8 @@ Logotipo:
 ![Logo](https://github.com/GFernando97/DIU21/blob/master/P3/LogoColorApp.png)
 
 Miembros
- * :bust_in_silhouette:   AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:   GFernando97     :octocat:     
+ * :bust_in_silhouette:  mnc99     :octocat:
 
 ----- 
 
