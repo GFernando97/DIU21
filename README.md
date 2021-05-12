@@ -13,7 +13,8 @@ El proyecto consiste en el desarrollo de una aplicación institucional de turism
 La aplicación también dispone de un motor de búsqueda de artículos dentro de la aplicación y se una sección especial para empresas a través de la cual un determinado negocio (hotel, restaurante, monumento...) podrá validarse y anunciarse en la aplicación.
 
 Logotipo: 
-![Logo](https://github.com/GFernando97/DIU21/blob/master/P3/LogoColorApp.png)
+
+<img src="https://github.com/GFernando97/DIU21/blob/master/P3/LogoColorApp.png" width=25% height=25%>
 
 Miembros
  * :bust_in_silhouette: Gabriel Fernando Lojano Mayaguari       :octocat:     GFernando97
@@ -235,58 +236,59 @@ Como herramienta de apoyo para poder determinar los patrones de diseño se ha us
 
 A continuación se muestran los protipos finales del aspecto que tendrán cada una de las pantallas de la aplicación:
 
+A continuación se muestran los protipos finales del aspecto que tendrán cada una de las pantallas de la aplicación:
+
 - Registrar
 
-![Registrar](https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/register.png)
+<img src="https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/register.png" width=35% height=35%>
 
 - Iniciar sesión
 
-![IniciarSesion](https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/login.png)
+<img src="https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/login.png" width=35% height=35%>
 
 - Página principal
 
-![Home](https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/home-registered.png)
+<img src="https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/home-registered.png" width=35% height=35%>
 
 - Artículo
 
-![Articulo](https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/article.png)
+<img src="https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/article.png" width=35% height=35%>
 
 - Panel lateral
 
-![Panel](https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/lateral-panel.png)
+<img src="https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/lateral-panel.png" width=35% height=35%>
 
 - Sobre nosotros
 
-![SobreNosotros](https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/about-us.png)
+<img src="https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/about-us.png" width=35% height=35%>
 
 - Perfil de usuario
 
-![Perfil](https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/profile.png)
+<img src="https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/profile.png" width=35% height=35%>
 
 - Ajustes de perfil
 
-![AjustesPerfil](https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/profile-settings.png)
+<img src="https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/profile-settings.png" width=35% height=35%>
 
--Editar perfil
+- Editar perfil
 
-![EditarPerfil](https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/edit-profile.png)
+<img src="https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/edit-profile.png" width=35% height=35%>
 
 - Ajustes de negocio
 
-![Negocios](https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/business-settings.png)
+<img src="https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/business-settings.png" width=35% height=35%>
 
 - Rutas
 
-![Rutas](https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/routes.png)
+<img src="https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/routes.png" width=35% height=35%>
 
 - Búsqueda
 
-![Buscar](https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/search.png)
+<img src="https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/search.png" width=35% height=35%>
 
 - Ajustes generales
 
-![Ajustes](https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/settings.png)
-
+<img src="https://github.com/GFernando97/DIU21/blob/master/P3/Imagenes%20Layout/settings.png" width=35% height=35%>
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
