@@ -10,7 +10,13 @@ Para realizar el MoodBoard de la aplicación hemos empleado Milanote. En el Mood
 - Estilo de iconos empleados.
 - 3 imágenes inspiradoras.
 
+
 ![MoodBoard](https://github.com/GFernando97/DIU21/blob/master/P3/MoodBoard.png)
+
+
+## Logo
+
+<img src="https://github.com/GFernando97/DIU21/blob/master/P3/LogoColorApp.png" width=25% height=25%>
 
 
 ## Landing Page
