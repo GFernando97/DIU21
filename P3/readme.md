@@ -1,5 +1,9 @@
 # DIU - Práctica 3: Prototipado/Mockup
 
+Miembros (DIU2)
+ * :bust_in_silhouette: Gabriel Fernando Lojano Mayaguari       :octocat:     GFernando97
+ * :bust_in_silhouette: Moisés Noguera Carrillo      :octocat:      mnc99
+
 ## Moodboard (diseño visual + logotipo)   
 
 Para realizar el MoodBoard de la aplicación hemos empleado Milanote. En el MoodBoard se detallan los siguientes aspectos:
@@ -111,5 +115,7 @@ Y por último, otro de los aspectos más complejos desde nuestro punto de vista 
  - Puesto que se técnicamente se trata de una aplicación desarrollada por el ayuntamiento de Granada, suponemos que el nombre debe presentar un aspecto formal, oficial y facil de recordar.
  
 Por último nos hemos habituado a utilizar aplicaciones que facilitan la organización y el diseño de una interfaz de usuario, consideramos que es un aspecto positivo pues es un conocimiento que podemos utilizar en futuros proyectos.
+
+Para visualizar el Case Study completo pulse [aquí](https://github.com/GFernando97/DIU21/blob/master/README.md)
 
  
