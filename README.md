@@ -316,20 +316,18 @@ A continuación se muestran los protipos finales del aspecto que tendrán cada u
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| María         | M / 18   | Estudiante  | Media       | Extrovertida | App        | A 
+| Esperanza     | M / 67   | Jubilada    | Baja        | Jovial       | App        | A 
+| Jose          | H / 23   | Estudiante  | Alta        | Tranquila    | Web        | B 
+| Sonia         | M / 45   | Empresaria  | Media       | Racional     | Web        | B 
 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
 
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
+Se ha realizado un cuestionario SUS para evaluar tanto la usabilidad de la Web del equipo que se nos ha asignado (Test B), como la de nuestra propia aplicación (Test A). Para rellenar el cuestionario se han utilizado cuatro tipos diferentes de usurios con distintas profesiones y edad.
 
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
+Los resultados del cuestionario SUS se pueden ver [aquí](https://github.com/GFernando97/DIU21/blob/master/P4/Cuestionario%20SUS%20DIU.pdf)
 
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
