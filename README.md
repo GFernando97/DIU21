@@ -304,8 +304,12 @@ A continuación se muestran los protipos finales del aspecto que tendrán cada u
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
 
+Caso: Cherry Trip
+Github: https://github.com/Asmilex/DIU21
 
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
+El caso asignado consiste en una página web para poder realizar viajes en la provincia de Granada, poniendo especial atención en adaptar sus servicios de acuerdo a la situación de pandemia vivida actualmente y en ser accesible para todo tipo de usuarios.
+
+La aplicación web permite crear rutas turísticas personalizadas (restaurantes, hoteles, eventos...) en torno a una localización concreta indicada en un mapa. o bien buscando los puntos de las rutas directamente a través de un motor de búsqueda. Una vez establecida una ruta, la aplicación permite pagar a través de diferentes plataformas de pago. Los usuarios también tienen la posibilidad de personalizar su perfil y cambiar el tema de la web, sus datos etc etc.
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
