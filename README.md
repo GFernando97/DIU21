@@ -362,8 +362,9 @@ Sin embargo, al indagar más en profundidad en la aplicación y realizar un estu
 
 ## Conclusión final / Valoración de las prácticas
 
+Como conlusión final podemos decir que a lo largo de estas prácticas hemos ido aprendiendo la importancia que hay que darle al usuario a la hora de diseñar la interfaz de una aplicación. Las diferentes técnicas y procesos que se nos han enseñado para llevar a cabo el diseño nos han parecido verdaderamente útiles tanto para el desarrollo de las prácticas como para futuros proyectos que podamos abordar a nivel laboral. Así mismo, hemos aprendido a valorar el trabajo en equipo y a tener en cuenta la opinión que pueda tener nuestro compañero ya que esta nos puede servir de contraste y ayuda. También hemos visto la importancia de disponer de usuarios con diferentes características para poder tener una visión más amplia y realista de cómo debe comportarse el producto software que se está desarrollando.
 
->>> (90-150 palabras) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
+
 
 
 
