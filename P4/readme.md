@@ -1,4 +1,4 @@
-# DIU - Practica 4: Evaluación
+# DIU - Práctica 4: Evaluación
 
 Lista de proyectos (en github) https://github.com/mgea/DIU20/blob/master/P4/proyectos.md
 
@@ -20,7 +20,7 @@ Los perfiles de los cuatro usuarios que han realizado el test son los siguientes
 - María: Joven estudiante de 18 años. Es muy sociable y extrovertida. Uno de sus hobbys es viajar y por eso se dispone a usar la aplicación. Su estado anímico actual es feliz y optimista.
 - Esperanza: Mujer de 67 años jubilada. A pesar de su edad es muy activa y jovial y alegre. Desea viajar para poder relajarse en una ciudad más tranquila que en la que reside. Actualmente se encuentra frustada ya que le cuesta mucho relajarse en su zona de residencia.
 - Jose: Un chico joven de 23 años de edad que actualmente está estudiando. Es una persona tranquila y relajada. Actualmente se encuentra un poco deprimido y ha decidido viajar para animarse un poco.
-- Sonia: Una mujer de 45 años, cuya profesión es empresario en el sector de la hostelería. Es una persona seria y exigente. Actualmente se encuentra agobiada por su trabajo, y ha decidido aprovechar sus viajes de negocios para relajarse.
+- Sonia: Una mujer de 45 años, cuya profesión es empresaria en el sector de la hostelería. Es una persona seria y exigente. Actualmente se encuentra agobiada por su trabajo, y ha decidido aprovechar sus viajes de negocios para relajarse.
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
