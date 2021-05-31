@@ -10,7 +10,7 @@ Lista de proyectos (en github) https://github.com/mgea/DIU20/blob/master/P4/proy
 
 El caso asignado consiste en una página web para poder realizar viajes en la provincia de Granada, poniendo especial atención en adaptar sus servicios de acuerdo a la situación de pandemia vivida actualmente y en ser accesible para todo tipo de usuarios.
 
-La aplicación web permite crear rutas turísticas personalizadas (restaurantes, hoteles, eventos...) en torno a una localización concreta indicada en un mapa. o bien buscando los puntos de las rutas directamente a través de un motor de búsqueda. Una vez establecida una ruta, la aplicación permite pagar a través de diferentes plataformas de pago. Los usuarios también tienen la posibilidad de personalizar su perfil y cambiar el tema de la web, sus datos etc etc.
+La aplicación web permite crear rutas turísticas personalizadas (restaurantes, hoteles, eventos...) en torno a una localización concreta indicada en un mapa, o bien buscando los puntos de las rutas directamente a través de un motor de búsqueda. Una vez establecida una ruta, la aplicación permite pagar a través de diferentes plataformas de pago. Los usuarios también tienen la posibilidad de personalizar su perfil y cambiar el tema de la web, sus datos etc etc.
 
 
 4.b User Testing
