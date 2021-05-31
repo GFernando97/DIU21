@@ -304,8 +304,8 @@ A continuación se muestran los protipos finales del aspecto que tendrán cada u
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
 
-Caso: Cherry Trip
-Github: https://github.com/Asmilex/DIU21
+- Caso: Cherry Trip
+- Github: https://github.com/Asmilex/DIU21
 
 El caso asignado consiste en una página web para poder realizar viajes en la provincia de Granada, poniendo especial atención en adaptar sus servicios de acuerdo a la situación de pandemia vivida actualmente y en ser accesible para todo tipo de usuarios.
 
@@ -314,9 +314,6 @@ La aplicación web permite crear rutas turísticas personalizadas (restaurantes,
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
-
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
- 
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
